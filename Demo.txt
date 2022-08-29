@@ -1,3 +1,2 @@
-Adding my initial commit!
-Preparing for writing my codes in dummy proj.
-Second line
+Hello java
+ added third line!
